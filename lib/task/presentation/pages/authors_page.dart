@@ -376,7 +376,7 @@ class _AuthorCard extends StatelessWidget {
                         Row(
                           children: [
                             Expanded(
-                              
+
                               child: Text(
                                 author.birthDate ?? "",
                                 style: TextStyle(fontSize: 14, color: Colors.grey[600], height: 1.2),
